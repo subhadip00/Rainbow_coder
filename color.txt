@@ -3,4 +3,5 @@ Indigo.
 Blue.
 Green.
 Yellow.
-Orange added.
+Orange .
+Red.
